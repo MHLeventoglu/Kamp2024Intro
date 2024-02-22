@@ -24,6 +24,5 @@ public class CourseManager
         // business rules
         return _courseDal.GetAll();
     }
-
-
+    
 }
